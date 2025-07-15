@@ -21,7 +21,6 @@ const Carousel=()=>{
         }
     ]
 
-    // const [curSlide, setCurSlide]=React.useState(0);
     const keyRef = React.useRef(null);
 
     React.useEffect(()=>{
